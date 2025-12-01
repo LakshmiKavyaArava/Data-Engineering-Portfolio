@@ -3,7 +3,7 @@ My complete Data Engineering learning journey with SQL, Python, Azure, ETL pipel
 # Data Engineering Portfolio
 
 ### Created by: Lakshmi Kavya
-### Goal: Become a Cloud Data Engineer using Azure + Databricks by May 2026
+### Goal: Become a Cloud Data Engineer using Azure + Databricks by June 2026
 
 This repository documents my complete journey toward becoming a Data Engineer.
 
