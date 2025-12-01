@@ -1,0 +1,29 @@
+-- Day 1: Basic SELECT Practice
+-- Author: Lakshmi Kavya
+
+-- 1. Select all columns from Customers
+SELECT *
+FROM Customers;
+
+-- 2. Select specific columns
+SELECT
+    customer_id,
+    customer_name,
+    city
+FROM Customers;
+
+-- 3. Filter by city
+SELECT
+    customer_id,
+    customer_name,
+    city
+FROM Customers
+WHERE city = 'Hyderabad';
+
+-- 4. Sort customers by name
+SELECT
+    customer_id,
+    customer_name,
+    city
+FROM Customers
+ORDER BY customer_name ASC;
